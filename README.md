@@ -1,6 +1,13 @@
 <p align="center">
   <!-- Coding Boy Illustration -->
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="Coding Boy" />
+  <a href="https://chromedino.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/mario.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./img/mario.gif" />
+    <img alt="https://ravvi.vercel.app" src="./img/mario.gif" />
+  </picture>
+</a>
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Dilbag Singh</h1>
