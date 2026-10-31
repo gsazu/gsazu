@@ -85,7 +85,7 @@
 
 ## 📫 Connect With Me
 
-- 💻 GitHub: https://github.com/gsazu
+- 💼 LinkedIn: [Dilbag Singh](https://www.linkedin.com/in/dilbag-singh-340a781b2/)
 - 📧 Email: agpdilbag@gamil.com
 
 ---
